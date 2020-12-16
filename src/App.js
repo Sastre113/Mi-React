@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import './App.css';
+import './style.css';
 import tasks from './sample/task.json';
 
 import Tasks from './components/Tasks';
