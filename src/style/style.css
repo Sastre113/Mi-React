@@ -1,4 +1,5 @@
 
+/* Estilos para App-ConceptosBasicos */
 div > .miComponente{
     background-color: black;
     color: white;
@@ -17,4 +18,10 @@ div > .miComponente{
 .styleClaseComp{
     background-color: purple;
     color:black;
+}
+
+/* Estilos para App */
+
+.misTareas{
+    
 }
